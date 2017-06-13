@@ -5,8 +5,7 @@
 A -> B
 @enduml
 ```
-
-
+<br />
 ```uml
 @startuml
 |Swimlane1|
